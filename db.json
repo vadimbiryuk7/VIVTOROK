@@ -13,5 +13,10 @@
             "photo_url": "https://cdn5.vedomosti.ru/image/2024/7g/xbrr9/original-176w.jpg",
             "balance": 99999
         }
-    ]
+    ],
+    "products":[{
+        "name":"bulba",
+        "price":40  
+
+    }]
 }
