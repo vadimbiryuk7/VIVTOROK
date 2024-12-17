@@ -8,7 +8,7 @@
             "balance": 99999
         },{
             "id": 2,
-            "name": "Nikita",
+            "name": "Alexxx",
             "surname": "loh",
             "photo_url": "https://cdn5.vedomosti.ru/image/2024/7g/xbrr9/original-176w.jpg",
             "balance": 0
@@ -16,7 +16,8 @@
     ],
     "products":[{
         "name":"bulba",
-        "price":40  
-
+        "price":40,
+        "name":"огурец",
+        "price":20
     }]
 }
